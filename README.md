@@ -8,34 +8,34 @@ Analysis of the Addicts and Bladder cancer data sets, initially with an explorat
 
 A data.frame with 238 rows and the following variables:
 
-id - ID of subject
-clinic - Clinic (1 or 2)
-status - status (0=censored, 1=endpoint)
-survt - survival time (days)
-prison - prison record?
-dose - methodone dose (mg/day)
+* id - ID of subject
+* clinic - Clinic (1 or 2)
+* status - status (0=censored, 1=endpoint)
+* survt - survival time (days)
+* prison - prison record?
+* dose - methodone dose (mg/day)
 
 ### Baldder Cancer Data set
 
 A data.frame with 191 rows and the following variables:
 
-id
-event
-interval
-inttime
-start
-stop
-tx
-num
-size
+* id
+* event
+* interval
+* inttime
+* start
+* stop
+* tx
+* num
+* size
 
 ## Analysis Performed
 
 The Analysis was performed in;
 
-1. R (https://github.com/samalkani/Linear-Logistic-Regression-and-Survival-Analysis/blob/main/Linear%2C%20Logistic%20regression%20and%20Survival%20Analysis.R),
-2. R Markdown (https://github.com/samalkani/Linear-Logistic-Regression-and-Survival-Analysis/blob/main/Linear%2C%20Logistic%20regression%20and%20Survival%20Analysis%20of%20the%20Addicts%20and%20Bladder%20data%20sets.Rmd),
-3. and a downloadable R Markdown HTML document (https://github.com/samalkani/Linear-Logistic-Regression-and-Survival-Analysis/blob/main/Linear%2C-Logistic-regression-and-Survival-Analysis-of-the-Addicts-and-Bladder-data-sets.html).
+1. __R__ (https://github.com/samalkani/Linear-Logistic-Regression-and-Survival-Analysis/blob/main/Linear%2C%20Logistic%20regression%20and%20Survival%20Analysis.R),
+2. __R Markdown__ (https://github.com/samalkani/Linear-Logistic-Regression-and-Survival-Analysis/blob/main/Linear%2C%20Logistic%20regression%20and%20Survival%20Analysis%20of%20the%20Addicts%20and%20Bladder%20data%20sets.Rmd),
+3. and a downloadable __R Markdown HTML document__ (https://github.com/samalkani/Linear-Logistic-Regression-and-Survival-Analysis/blob/main/Linear%2C-Logistic-regression-and-Survival-Analysis-of-the-Addicts-and-Bladder-data-sets.html).
 
 ## Details of Analysis
 
